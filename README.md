@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kennyorn1
+- 👋 Hi, I’m Kenny Wu
 - 👀 I’m interested in AI technology
 - 🌱 I’m currently learning AI technology and Mechanical Engineering
 - 💞️ I’m looking to collaborate with kindred spirits
