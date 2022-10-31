@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning AI technology and Mechanical Engineering
 - 💞️ I’m looking to collaborate with kindred spirits
 - 📫 How to reach me : 1079346331@qq.com
-![3](https://user-images.githubusercontent.com/110704880/198951965-dc852c46-c39d-4a9d-8768-c1c6d34b37ca.gif)
+![cool-icegif-2](https://user-images.githubusercontent.com/110704880/198952319-4b34c464-d3b3-4ec3-b932-2aa0d4d64722.gif)
+
 
 <!---
 kennyorn1/kennyorn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
