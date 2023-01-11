@@ -16,6 +16,5 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyorn1&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0，F9F871,F9F871,FF9671,FF6F91,D65DB1,845EC2&theme=graywhite" /> </div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kennyorn1" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kennyorn1&theme=xcode" /> </div>
 
 🌍🌎🌏🌐🪨🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚🌛🌜☀️🌝🌞⭐🌟🌠☁️⛅⛈️🌤️🌥️🌦️🌧️🌨️🌩️🌪️🌫️🌬️🌈☂️☔⚡❄️☃️⛄☄️🔥💧🌊💌💎🔪💈🚪🚽🚿🛁⌛⏳⌚⏰🎈🎉🎊🎎🎏🎐🎀🎁📯📻📱📲☎📞📟📠🔋🔌💻💽💾💿📀🎥📺📷📹📼🔍🔎🔬🔭📡💡🔦🏮📔📕📖📗📘📙📚📓📃📜📄📰📑🔖💰💴💵💶💷💸💳✉📧📨📩📤📥📦📫📪📬📭📮✏✒📝📁📂📅📆📇📈📉📊📋📌📍📎📏📐✂🔒🔓🔏🔐🔑🔨🔫🔧🔩🔗💉💊🚬🔮🚩🎌💦💨🐁🐂🐅🐇🐉🐍🐎🐐🐒🐓🐕🐖💘❤💓💔💕💖💗💙💚💛💜💝💞💟❣💐🌸💮🏵️🌹🥀🌺🌻🌼🌷🌱🌿☘️🍀🌿☘️🍀🍁🍂🍃🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚
