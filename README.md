@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning AI technology and Mechanical Engineering
 - 📫 How to reach me : kennyorn9@gmail.com
 
+![Metrics](https://metrics.lecoq.io/kennyorn1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 ## 🌓 Overall Stats
 <img src="https://visitor-badge.glitch.me/badge?page_id=kennyorn1" />
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennyorn1" /> </div>
