@@ -9,4 +9,4 @@
 kennyorn1/kennyorn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyorn1&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyorn1&count_private=true&theme=onedark&bg_color=DEG,COLOR1,COLOR2,COLOR3)](https://github.com/anuraghazra/github-readme-stats)
