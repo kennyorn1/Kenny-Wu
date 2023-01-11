@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kenny Wu
 - 👀 I’m interested in AI technology
 - 🌱 I’m currently learning AI technology and Mechanical Engineering
-- 📫 How to reach me : kennyorn9@outlook.com
+- 📫 How to reach me : kennyorn9@gmail.com
 ![cool-icegif-2](https://user-images.githubusercontent.com/110704880/198952319-4b34c464-d3b3-4ec3-b932-2aa0d4d64722.gif)
 
 
